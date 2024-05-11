@@ -7,9 +7,7 @@ const Login = () => {
   const teamMembers = [
     "Ravi",
     "Naga Pavan",
-    "Prakhar",
     "Prashant",
-    "Sakshi",
     "Arif",
   ];
   const apiUrl = process.env.REACT_APP_API_URL;
